@@ -96,7 +96,7 @@ author:
   name             : "NYRE"
   avatar           : /assets/images/me.jpg
   bio              : "NYRE"
-  location         : "South Korea <=> U.S."
+  location         : "South Korea"
   email            : "sangwulee2@gmail.com"
   links:
     - label: "Email"
@@ -219,6 +219,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jemoji
 
 # mimic GitHub Pages with --safe
 whitelist:
